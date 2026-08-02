@@ -42,7 +42,7 @@ A modern browser game inspired by the classic offline dinosaur game.
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pixel-dino-runner.git
+git clone https://github.com/info-ashenrsh/pixel-dino-runner.git
 ```
 
 Open
