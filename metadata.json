@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Dino Runner",
+  "description": "A feature-packed retro monochrome pixel art dino runner game with weather systems, day/night cycle, skins, powerups, sound synthesis, achievements, and high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
